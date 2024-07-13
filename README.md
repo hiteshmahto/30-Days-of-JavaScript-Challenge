@@ -4,7 +4,7 @@ Welcome to my 30-day JavaScript challenge! This repository contains my progress 
 
 ## 🔽 Challenge Index
 
-- [Day 01 - Variables and Data Types](day1/)
+- [Day 01 - Variables and Data Types](Day%2001%20-%20Variables%20and%20Data%20Types/)
 - ...
 <!-- - [Day 30 - Final Social Media Dashboard](day30/) -->
 
