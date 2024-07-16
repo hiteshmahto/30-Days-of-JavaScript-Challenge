@@ -1,4 +1,4 @@
-# 🌟 30-Day of JavaScript Challenge
+# 🌟 30 Day's of JavaScript Challenge
 
 Welcome to my 30-day JavaScript challenge! This repository contains my progress and logs for each day of the challenge.
 
