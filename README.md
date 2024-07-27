@@ -10,6 +10,22 @@ Welcome to my 30 day's JavaScript challenge! This repository contains my progres
 - [Day 04 - Loops](Day%2004%20-%20Loops/)
 - [Day 05 - Functions](Day%2005%20-%20Functions/)
 - [Day 06 - Arrays](Day%2006%20-%20Arrays/)
+- [Day 07 - Objects](Day%2007%20-%20Objects)
+- [Day 08 - ES6 + Features](Day%2008%20-%20ES6%20+%20Features)
+- [Day 09 - DOM Manipulation](Day%2009%20-%20DOM%20Manipulation)
+- [Day 10 - Event Handling](Day%2010%20-%20Event%20Handling)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - ...
 <!-- %20 -->
 
